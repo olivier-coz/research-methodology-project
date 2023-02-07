@@ -1,2 +1,2 @@
 # research-methodology-project
-Research methodology project from class n2
+Research methodology project for class n2
